@@ -1,0 +1,42 @@
+{
+  "groups": [
+    {
+      "name": "minio",
+      "type": "com.chang.configuration.MinioProperties",
+      "sourceType": "com.chang.configuration.MinioProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "minio.access-key",
+      "type": "java.lang.String",
+      "description": "用户名",
+      "sourceType": "com.chang.configuration.MinioProperties"
+    },
+    {
+      "name": "minio.bucket",
+      "type": "java.lang.String",
+      "description": "存储桶名称",
+      "sourceType": "com.chang.configuration.MinioProperties"
+    },
+    {
+      "name": "minio.endpoint",
+      "type": "java.lang.String",
+      "description": "服务地址",
+      "sourceType": "com.chang.configuration.MinioProperties"
+    },
+    {
+      "name": "minio.preview",
+      "type": "java.lang.String",
+      "description": "文件预览地址",
+      "sourceType": "com.chang.configuration.MinioProperties"
+    },
+    {
+      "name": "minio.secret-key",
+      "type": "java.lang.String",
+      "description": "密码",
+      "sourceType": "com.chang.configuration.MinioProperties"
+    }
+  ],
+  "hints": []
+}

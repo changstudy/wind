@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d13c7d7-7e9b-44a2-8aaf-e6e0a609a0e7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/maven/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="C:\maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="15" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2Mz8BKctXwCYFWBAdPz3mplyBC8" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ccminio" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.20224719" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../Git/19lou/mall" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d13c7d7-7e9b-44a2-8aaf-e6e0a609a0e7" name="Default Changelist" comment="" />
+      <created>1678758913094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678758913094</updated>
+      <workItem from="1678758917692" duration="165000" />
+      <workItem from="1678759288982" duration="1308000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="426" y="59" key="FileChooserDialogImpl" timestamp="1678759764826">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="426" y="59" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1678759764826" />
+    <state x="202" y="66" key="NewModule_or_Project.wizard" timestamp="1678759768445">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="202" y="66" key="NewModule_or_Project.wizard/0.0.1366.738@0.0.1366.738" timestamp="1678759768445" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1678759784569">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1678759784569" />
+    <state x="265" y="70" width="991" height="598" key="new project wizard" timestamp="1678759856639">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="265" y="70" width="991" height="598" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1678759856639" />
+  </component>
+</project>

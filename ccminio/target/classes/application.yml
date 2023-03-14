@@ -1,0 +1,13 @@
+server:
+  port: 9091
+minio:
+  # 服务地址
+  endpoint: http://124.223.224.19:9000
+  # 文件预览地址
+  preview: http://124.223.224.19:9000
+  # 存储桶名称
+  bucket: images
+  # 用户名
+  access-key: ccminio
+  # 密码
+  secret-key: ccminiopwd

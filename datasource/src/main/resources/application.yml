@@ -1,0 +1,21 @@
+server:
+  port: 9093
+
+spring:
+  datasource:
+    db1:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://124.223.224.19:3306/cloud-activity?allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=UTC
+      username: root
+      password: 2426338156cc
+    db2:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://124.223.224.19:3306/cloud-user?allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=UTC
+      username: root
+      password: 2426338156cc
+  redis:
+    host: 124.223.224.19
+    port: 6379
+    max-idle: 300
+    max-wait: 3000
+
